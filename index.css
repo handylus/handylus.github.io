@@ -1,0 +1,98 @@
+html,body { margin: 0; width: 100%;	font-family: 'Nunito Sans', sans-serif;
+				font-weight:300;
+}
+
+.body{
+				padding:15px;
+			
+				
+				}
+
+p{
+margin-top: 21px; font-family: 'Nunito Sans', sans-serif; font-size: 16px; letter-spacing: -0.03px; line-height: 1.50;  color:#000; font-weight:300; text-align:left; max-width:500px;
+
+
+/*font-family: 'MuseoModerno', cursive;
+/*font-family: 'Nunito', sans-serif;
+*/
+
+
+}
+
+h2{
+				font-family:'Roboto', sans-serif; font-size: 28px; font-weight: 900; margin: 56px 0 -13px -1.883px; text-align: left; line-height: 36px; letter-spacing: -0.45px; max-width:500px;
+				}
+
+#random{
+				background-color:#fff;
+				text-decoration:none;
+				font-family: "Nunito Sans", sans-serif;
+				color:#000;
+				border:1.7px solid #000;
+				border-radius:4px;
+				padding-left:30px;
+				padding-right:30px;
+				padding-top:15px;
+				padding-bottom:15px;
+				font-weight:600;
+				font-size:14px;
+				
+				}
+
+#random:focus{
+				outline: none !important; box-shadow: none !important;
+				
+				}
+.feature{
+				font-family:'Roboto', sans-serif; font-size: 17px; font-weight: 700; margin: 56px 0 -13px -1.883px; text-align: left; line-height: 36px; letter-spacing: -0.45px; max-width:500px;
+				}
+
+
+.wrapper{
+				display:grid;
+				grid-template-columns:47% 47%;
+				grid-column-gap:10px;
+				grid-row-gap:10px;
+				}
+
+.wraps img{
+  width:90%;
+  border:1.7px solid #EBEBEB;
+  border-radius:5px;
+  max-width:100px;
+
+}
+
+
+
+.hr{
+				background-color:#EBEBEB;
+				height:1.5px;
+				width:100%;
+				}
+
+
+center b{
+				font-family: 'Nunito Sans', sans-serif; font-size: 15px; letter-spacing: -0.03px; line-height: 1.50;  color:#000; font-weight:900; text-align:center; max-width:500px;
+				}
+
+footer a{
+				text-decoration:none;
+				font-family: 'Nunito Sans', sans-serif; font-size: 14px; letter-spacing: -0.03px; line-height: 1.50;  color:#000; font-weight:300; text-align:left; max-width:500px;
+				
+				}
+				
+.copyright {
+       font-family: 'Nunito Sans', sans-serif; font-size: 14px; letter-spacing: -0.03px; line-height: 1.50;  color:#B5B5B5; font-weight:300; text-align:left; max-width:500px;
+				
+       
+}
+
+&{
+				
+				}
+
+center a{
+				text-decoration: underline;
+				color:#000;
+				}
